@@ -21,3 +21,13 @@ A desktop application that helps players quickly create balanced teams for frien
 ## ⚠️ Disclaimer
 
 This product is not endorsed or certified by Riot Games.
+
+
+## 📷 Screenshot
+
+### 🔹 Before (basic UD)
+<img width="1343" height="930" alt="image" src="https://github.com/user-attachments/assets/d6938f22-0fe6-4f1f-b893-1b59e3fc5148" />
+
+
+### 🔹 After (Program Operation Results)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4c563454-ee44-45e9-9e7d-9f286d91a3a6" />
