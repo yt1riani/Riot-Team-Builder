@@ -25,7 +25,7 @@ This product is not endorsed or certified by Riot Games.
 
 ## 📷 Screenshot
 
-### 🔹 Before (basic UD)
+### 🔹 Before (basic UI)
 <img width="1343" height="930" alt="image" src="https://github.com/user-attachments/assets/d6938f22-0fe6-4f1f-b893-1b59e3fc5148" />
 
 
